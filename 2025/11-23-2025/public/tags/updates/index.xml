@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My awesome hugo site</title>
+	<link>http://localhost:1313/tags/updates/</link>
+	<description>Recent content in Updates on My awesome hugo site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sun, 23 Nov 2025 22:06:45 -0600</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Stars</title>
+		<link>http://localhost:1313/stars/</link>
+		<pubDate>Sun, 23 Nov 2025 22:06:45 -0600</pubDate>
+		
+		<guid>http://localhost:1313/stars/</guid>
+		<description>&lt;p&gt;Whatever bro. stars&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Sun, 23 Nov 2025 22:03:43 -0600</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;p&gt;Hello from bunnyguy&amp;rsquo;s markdown file&lt;/p&gt;
+&lt;p&gt;List:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;li&gt;wow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+&lt;dt&gt;Dictionary:&lt;/dt&gt;
+&lt;dd&gt;Foo bar&lt;/dd&gt;
+&lt;dd&gt;Bar foo?&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
